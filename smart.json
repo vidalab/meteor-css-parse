@@ -1,5 +1,5 @@
 {
-  "name": "css parser",
+  "name": "css-parser",
   "description": "css parser package for Meteor",
   "homepage": "https://github.com/dnprock/meteor-css-parse",
   "author": "Phuoc Do <dnprock@gmail.com>",
