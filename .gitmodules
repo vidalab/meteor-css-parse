@@ -1,0 +1,3 @@
+[submodule "lib/css-parse"]
+	path = lib/css-parse
+	url = git@github.com:visionmedia/css-parse.git
